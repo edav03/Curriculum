@@ -15,7 +15,7 @@
 }
 
 body{
-    background-image: url(/imgs/modern_back.webp);
+    background-image: url(../imgs/modern_back.webp);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
